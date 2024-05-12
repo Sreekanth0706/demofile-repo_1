@@ -13,5 +13,6 @@ For branching test I am editing this file again.
 #####
 
 Read the documentation and instructions carefully to understand.
+new_conflicting_line_on_sk_test_2_branch
 
 #####
