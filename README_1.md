@@ -13,5 +13,10 @@ For branching test I am editing this file again.
 #####
 
 Read the documentation and instructions carefully to understand.
+<<<<<<< HEAD
+new_conflicting_line_on_sk_test_2_branch
+
+=======
 Introducing a conflicting line in line number 16 for main branch. This will be a conflict with Sk_test_2 branch
+>>>>>>> main
 #####
